@@ -1,1 +1,1 @@
-# Android bundles
+# iOS bundles
